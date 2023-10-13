@@ -37,7 +37,7 @@ The primary script requires four inputs: the paths to the left and right FASTQ f
 #### MIT Licence
 
 ## Contributions
-##### Contributions are welcome!
+#### Contributions are welcome!
 - Fork the repository: This will create a copy of this project in your account.
 
 - Clone the forked repository: This will put the project on your local machine.
@@ -46,7 +46,7 @@ The primary script requires four inputs: the paths to the left and right FASTQ f
 
 - Please create a new branch: Use a name that succinctly tells what your patch does.
 
-###### Make the necessary changes in your local copy. If you've added code that should be tested, add tests. Update the README to the new branch, if necessary.
+##### Make the necessary changes in your local copy. If you've added code that should be tested, add tests. Update the README to the new branch, if necessary.
 
 - Commit the changes in your local repository.
 
@@ -54,13 +54,13 @@ The primary script requires four inputs: the paths to the left and right FASTQ f
 
 - Submit a pull request to the original repository.
 
-###### Ensure any install or build dependencies are removed before the end of the layer when doing a build. Add comments with details of changes to the interface, this includes new environment variables, exposed ports, useful file locations, and container parameters. You may merge the Pull Request once you have the sign-off of the maintainers, or if you do not have permission to do that, you may request the reviewer to merge it for you.
+##### Ensure any install or build dependencies are removed before the end of the layer when doing a build. Add comments with details of changes to the interface, this includes new environment variables, exposed ports, useful file locations, and container parameters. You may merge the Pull Request once you have the sign-off of the maintainers, or if you do not have permission to do that, you may request the reviewer to merge it for you.
 
 #### Code of Conduct
 
-###### In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to make participation in our project and our community a harassment-free experience for everyone. All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. This Code of Conduct applies both within project spaces and in public spaces when an individual is representing the project or its community. 
+##### In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to make participation in our project and our community a harassment-free experience for everyone. All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. This Code of Conduct applies both within project spaces and in public spaces when an individual is representing the project or its community. 
 
-###### This Code of Conduct is adapted from the Contributor Covenant, version 1.4
+##### This Code of Conduct is adapted from the Contributor Covenant, version 1.4
 
 ```bash
 ./path_to_script.sh TUMOR_FASTQ_LEFT TUMOR_FASTQ_RIGHT TUMOR_SAMPLE_NAME [BED_INTERVAL_LIST]
