@@ -1,5 +1,5 @@
 # somatic single nucleotide variant (SNV) analysis pipeline
-an example open source somatic variant analysis pipeline. vLoD algorithm is also integrated.
+an example open source somatic variant analysis pipeline (insight from GATK Best Practices). vLoD algorithm is also integrated.
 
 ## Introduction
 
